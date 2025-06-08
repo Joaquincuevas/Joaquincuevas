@@ -1,4 +1,6 @@
-# Joaquin Cuevas Muñoz
+<p align="center">
+  <img src="Group 83.png" alt="Banner de Joaquin" width="100%"/>
+</p>
 
 Inversionista y estudiante de Ingeniería Civil en Ciencias de la Computación
 
